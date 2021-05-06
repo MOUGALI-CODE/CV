@@ -2,7 +2,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-color:#E4F9F5;
+  background-color: #E4F9F5;
 }
 .top-container{
   background-color: #E4F9F5;
@@ -11,21 +11,27 @@ body{
 }
 
 h1{
-  margin: 0;
+  margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  font-size: 50px;
+  font-size: 5.6em;
+  color: #34656D;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #8AB6D6;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #11999E;
 }
 
 .bottom-cloud {
   position:absolute;
-  left: 300px;
+  left: 160px;
   bottom: 370px;
+  padding-bottom: 20px;
 }
 
 .middle-container{
@@ -34,12 +40,14 @@ h3{
 
 .top-cloud {
 position: absolute;
-right: 300px;
+right: 170px;
 top: 60px;
 }
 
 .mountain{
   height: 430px;
+  width:70%;
+  padding-top: 20px;
 }
 
 .profile-pic{
@@ -58,4 +66,15 @@ top: 60px;
 .football{
   height: 200px;
   width: 200px;
+}
+a{
+  color: #11999E;
+}
+
+.intro{
+  font-weight: bold;
+}
+
+p{
+  color: #194350;
 }
