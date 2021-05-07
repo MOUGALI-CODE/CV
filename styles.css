@@ -7,11 +7,11 @@ body{
 .top-container{
   background-color: #E4F6F6;
   position: relative;
-  padding-top: 100px;
+  padding-top: 40px;
 }
 
 h1{
-  margin: 50px auto 0 auto;
+  margin: 30px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.6em;
   color: #66BFBF;
@@ -33,7 +33,7 @@ h3{
 
 .bottom-cloud {
   position:absolute;
-  left: 160px;
+  left: 120px;
   bottom: 370px;
   padding-bottom: 20px;
 }
@@ -51,13 +51,13 @@ h3{
 .top-cloud {
 position: absolute;
 right: 170px;
-top: 60px;
+top: 25px;
 }
 
 .mountain{
-  height: 430px;
+  height: 400px;
   width:70%;
-  padding-top: 20px;
+
 }
 
 .profile-pic{
@@ -194,4 +194,5 @@ p{
   margin: auto;
   width: 38%
 }
+
 
